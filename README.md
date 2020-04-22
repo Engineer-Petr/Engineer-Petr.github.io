@@ -9,10 +9,15 @@ Companies that relocate Software Engineers from Russia
 | Netflix    | Relocates | ? |
 | Google    | Relocates | Still relocates |
 | Lyft | Relocates | ? |
+| Uber | Relocates | ? |
 | Tonal | Doesn't relocate | N/A |
 | Telescope Services AB | Relocates | ? |
 | Bosch | Relocates | ? |
 | Rivian | Relocates | ? |
 | Lucid Motors | ? | ? |
-| Peloton | Relocates | Still relocates |
+| Peloton Interactive | Relocates | Still relocates |
 | Hammerhead | Doesn't relocate | N/A |
+| Sigma Connectivity | ? | ? |
+| 1App | ? | ? |
+| CyberCoders | ? | ? |
+| Garmin | ? | ? |
