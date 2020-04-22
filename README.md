@@ -25,4 +25,4 @@ Companies that relocate Software Engineers from Russia
 | 1App | ? | ? |
 | CyberCoders | ? | ? |
 | Garmin | ? | ? |
-| Futurice | ? | ? |
+| Futurice | Relocates | ? |
