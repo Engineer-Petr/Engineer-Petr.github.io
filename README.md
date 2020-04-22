@@ -8,6 +8,10 @@ Companies that relocate Software Engineers from Russia
 | Amazon    | Relocates | Still relocates |
 | Netflix    | Relocates | ? |
 | Google    | Relocates | Still relocates |
+| Intel | ? | ? |
+| AMD | ? | ? |
+| Nvidia | ? | ? |
+| Snapchat | ? | ? |
 | Lyft | Relocates | ? |
 | Uber | Relocates | ? |
 | Tonal | Doesn't relocate | N/A |
