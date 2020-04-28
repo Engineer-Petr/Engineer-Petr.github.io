@@ -1,6 +1,9 @@
 # 🌎🚜🇷🇺
-Companies that relocate Software Engineers from Russia
 
+# Disclaimers
+[Green cards were suspended for the next 90 days, H1B and L1 are under discussion due to 26 mn Americans lose jobs](https://www.business-standard.com/article/economy-policy/trump-urged-to-suspend-h1b-other-visas-after-26-mn-americans-lose-jobs-120042500004_1.html) 
+
+# Companies that relocate Software Engineers from Russia
 |        Company        |     Locations     | Relocation Status | Relocation status during COVID-19 |
 |:---------------------:|:-----------------:|:-----------------:|:---------------------------------:|
 |        Amazon         |        🇺🇸🇨🇦       |     Relocates     |          Still relocates          |
@@ -12,7 +15,7 @@ Companies that relocate Software Engineers from Russia
 |       Facebook        |         🇺🇸        |     Relocates     |          Still relocates          |
 |       Futurice        |         🇫🇮        |     Relocates     |                 ?                 |
 |        Garmin         |         🇺🇸        |         ?         |                 ?                 |
-|        Google         |    🇨🇦🇺🇸🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Still relocates          |
+|        Google         |    🇨🇦🇺🇸🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Hirign slowdown         |
 |      Hammerhead       |         🇺🇸        | Doesn't relocate  |                N/A                |
 |         Intel         |         🇺🇸        |         ?         |                 ?                 |
 |     Lucid Motors      |         🇺🇸        |         ?         |                 ?                 |
