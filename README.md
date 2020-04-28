@@ -15,7 +15,7 @@
 |       Facebook        |         🇺🇸        |     Relocates     |          Still relocates          |
 |       Futurice        |         🇫🇮        |     Relocates     |                 ?                 |
 |        Garmin         |         🇺🇸        |         ?         |                 ?                 |
-|        Google         |    🇨🇦🇺🇸🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Hirign slowdown         |
+|        Google         |    🇨🇦🇺🇸🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Hiring slowdown         |
 |      Hammerhead       |         🇺🇸        | Doesn't relocate  |                N/A                |
 |         Intel         |         🇺🇸        |         ?         |                 ?                 |
 |     Lucid Motors      |         🇺🇸        |         ?         |                 ?                 |
