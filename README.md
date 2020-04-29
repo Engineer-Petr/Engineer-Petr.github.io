@@ -14,7 +14,7 @@
 |         Epam          |         🇺🇸        |     Relocates     |               Frozen              |
 |       Facebook        |         🇺🇸        |     Relocates     |          Still relocates          |
 |       Futurice        |         🇫🇮        |     Relocates     |                 ?                 |
-|        Garmin         |         🇺🇸        |         ?         |                 ?                 |
+|        Garmin         |         🇺🇸        |  Doesn't relocate |                N/A                |
 |        Google         |    🇨🇦🇺🇸🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Hiring slowdown         |
 |      Hammerhead       |         🇺🇸        | Doesn't relocate  |                N/A                |
 |         Intel         |         🇺🇸        |         ?         |                 ?                 |
@@ -25,7 +25,7 @@
 |       Palantir        |        🇺🇸🇬🇧       |         ?         |                 ?                 |
 |  Peloton Interactive  |         🇺🇸        |     Relocates     |          Still relocates          |
 |        Rivian         |         🇺🇸        |         ?         |                 ?                 |
-|  Sigma Connectivity   |         🇫🇮        |     Relocates     |          Still relocates          |
+|  Sigma Connectivity   |         🇫🇮        |     Relocates     |              Frozen               |
 |       Snapchat        |       🇺🇸🇬🇧🇺🇦      |     Relocates     |                 ?                 |
 |        SpaceX         |         🇺🇸        |        ?          |                 ?                 |
 |        Square         |       🇺🇸🇨🇦🇦🇺      |         ?         |                 ?                 |
