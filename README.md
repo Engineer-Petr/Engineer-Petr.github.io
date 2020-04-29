@@ -27,8 +27,8 @@
 |        Rivian         |         🇺🇸        |         ?         |                 ?                 |
 |  Sigma Connectivity   |         🇫🇮        |     Relocates     |          Still relocates          |
 |       Snapchat        |       🇺🇸🇬🇧🇺🇦      |     Relocates     |                 ?                 |
-|        SpaceX         |         🇺🇸        |     Relocates     |                 ?                 |
-|        Square         |       🇺🇸🇨🇦🇦🇺      |     Relocates     |                 ?                 |
+|        SpaceX         |         🇺🇸        |        ?          |                 ?                 |
+|        Square         |       🇺🇸🇨🇦🇦🇺      |         ?         |                 ?                 |
 |        Stripe         |    🇺🇸🇨🇦🇦🇺🇮🇪🇲🇽🇸🇬    |     Relocates     |                 ?                 |
 | Telescope Services AB |         🇫🇮        |     Relocates     |                 ?                 |
 |         Tesla         |         🇺🇸        |         ?         |                 ?                 |
