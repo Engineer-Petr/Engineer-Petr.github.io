@@ -10,7 +10,6 @@
 |          AMD          |         🇺🇸        |         ?         |                 ?                 |
 |         Apple         |         🇺🇸        |     Relocates     |                 ?                 |
 |         Bosch         |         🇩🇪        |     Relocates     |                 ?                 |
-|      CyberCoders      |         🇺🇸        |         ?         |                 ?                 |
 |         Epam          |         🇺🇸        |     Relocates     |               Frozen              |
 |       Facebook        |         🇺🇸        |     Relocates     |          Still relocates          |
 |       Futurice        |         🇫🇮        |     Relocates     |                 ?                 |
