@@ -6,9 +6,10 @@
 # Companies that relocate Software Engineers from Russia
 |        Company        |     Locations     | Relocation Status | Relocation status during COVID-19 |
 |:---------------------:|:-----------------:|:-----------------:|:---------------------------------:|
-|        Amazon         |        🇺🇸🇨🇦       |     Relocates     |          Still relocates          |
+|        Amazon         |      🇺🇸🇨🇦🇬🇧🇩🇪      |     Relocates     |          Still relocates          |
 |          AMD          |         🇺🇸        |         ?         |                 ?                 |
 |         Apple         |         🇺🇸        |     Relocates     |                 ?                 |
+|         Badoo         |         🇩🇪        |     Relocates     |           Still relocates         |
 |         Bosch         |         🇩🇪        |     Relocates     |                 ?                 |
 |         Epam          |         🇺🇸        |     Relocates     |               Frozen              |
 |       Facebook        |         🇺🇸        |     Relocates     |          Still relocates          |
@@ -19,6 +20,7 @@
 |         Intel         |         🇺🇸        |         ?         |                 ?                 |
 |     Lucid Motors      |         🇺🇸        |         ?         |                 ?                 |
 |         Lyft          |         🇺🇸        |     Relocates     |                 ?                 |
+|      Microsoft        |         🇺🇸        |     Relocates     |         Still relocates           |
 |        Netflix        |         🇺🇸        |     Relocates     |                 ?                 |
 |        Nvidia         |         🇺🇸        |         ?         |                 ?                 |
 |       Palantir        |        🇺🇸🇬🇧       |         ?         |                 ?                 |
