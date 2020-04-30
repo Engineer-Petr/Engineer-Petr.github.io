@@ -9,7 +9,7 @@
 |        Amazon         |      🇺🇸🇨🇦🇬🇧🇩🇪      |     Relocates     |          Still relocates          |
 |          AMD          |         🇺🇸        |         ?         |                 ?                 |
 |         Apple         |         🇺🇸        |     Relocates     |                 ?                 |
-|         Badoo         |         🇺🇸        |     Relocates     |           Still relocates         |
+|         Badoo         |         🇬🇧        |     Relocates     |           Still relocates         |
 |         Bosch         |         🇩🇪        |     Relocates     |                 ?                 |
 |         Epam          |         🇺🇸        |     Relocates     |               Frozen              |
 |       Facebook        |         🇺🇸        |     Relocates     |          Still relocates          |
