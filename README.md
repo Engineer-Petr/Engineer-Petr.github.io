@@ -18,6 +18,7 @@
 |        Google         |    🇨🇦🇺🇸🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Hiring slowdown         |
 |      Hammerhead       |         🇺🇸        | Doesn't relocate  |                N/A                |
 |         Intel         |         🇺🇸        |         ?         |                 ?                 |
+|          LG           |         🇺🇸        |     Relocates     |                 ?                 |
 |     Lucid Motors      |         🇺🇸        |         ?         |                 ?                 |
 |         Lyft          |         🇺🇸        |     Relocates     |                 ?                 |
 |      Microsoft        |         🇺🇸        |     Relocates     |         Still relocates           |
@@ -26,6 +27,7 @@
 |       Palantir        |        🇺🇸🇬🇧       |         ?         |                 ?                 |
 |  Peloton Interactive  |         🇺🇸        |     Relocates     |          Still relocates          |
 |        Rivian         |         🇺🇸        |         ?         |                 ?                 |
+|        Samsung        |         🇫🇮        |         ?         |                 ?                 |
 |  Sigma Connectivity   |         🇫🇮        |     Relocates     |              Frozen               |
 |       Snapchat        |       🇺🇸🇬🇧🇺🇦      |     Relocates     |                 ?                 |
 |        SpaceX         |         🇺🇸        |        ?          |                 ?                 |
