@@ -12,6 +12,7 @@
 |         Apple         |         🇺🇸        |     Relocates     |                 ?                 |
 |         Badoo         |         🇬🇧        |     Relocates     |           Still relocates         |
 |         Bosch         |         🇩🇪        |     Relocates     |                 ?                 |
+|         Citadel       |        🇺🇸🇬🇧       |     Relocates     |                 ?                 |
 |         Epam          |         🇺🇸        |     Relocates     |               Frozen              |
 |       Facebook        |       🇺🇸🚜🇬🇧      |     Relocates     |          Still relocates          |
 |       Futurice        |         🇫🇮        |     Relocates     |                 ?                 |
@@ -19,6 +20,7 @@
 |        Google         |   🇺🇸🚜🇨🇦🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪  |     Relocates      |          Hiring slowdown         |
 |      Hammerhead       |         🇺🇸        | Doesn't relocate  |                N/A                |
 |         Intel         |         🇺🇸        |         ?         |                 ?                 |
+|      Jane Street      |        🇺🇸🇬🇧       |     Relocates     |                 ?                 |
 |          LG           |         🇺🇸        |     Relocates     |                 ?                 |
 |     Lucid Motors      |         🇺🇸        |         ?         |                 ?                 |
 |         Lyft          |         🇺🇸        |     Relocates     |                 ?                 |
