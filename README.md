@@ -7,7 +7,7 @@
 # Companies that relocate Software Engineers from Russia
 |        Company        |     Locations     | Relocation Status | Relocation status during COVID-19 |
 |:---------------------:|:-----------------:|:-----------------:|:---------------------------------:|
-|        Amazon         |      🇺🇸🇨🇦🇬🇧🇩🇪      |     Relocates     |          Still relocates          |
+|        Amazon         |      🇺🇸🇨🇦🇬🇧🇩🇪      |     Relocates     |              Frozen               |
 |          AMD          |         🇺🇸        |         ?         |                 ?                 |
 |         Apple         |         🇺🇸        |     Relocates     |                 ?                 |
 |         Badoo         |         🇬🇧        |     Relocates     |           Still relocates         |
