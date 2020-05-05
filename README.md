@@ -8,7 +8,7 @@
 |        Company        |     Country       |                                   City                                    | Relocation Status | Relocation status during COVID-19 |
 |:---------------------:|:-----------------:|:-------------------------------------------------------------------------:|:-----------------:|:---------------------------------:|
 |        Amazon         |     🇺🇸🇨🇦🇬🇧🇩🇪🇮🇪     |    Bay Area, Seattle, New York, Vancouver, Toronto, Berlin, Dublin, etc   |  Relocates |             Frozen              |
-|          AMD          |         🇺🇸        |                                Ontario, CA                                |      ?         |               ?                 |
+|          AMD          |         🇺🇸        |                                  Ontario                                  |      ?         |               ?                 |
 |         Apple         |      🇺🇸🇨🇦🇬🇧🇩🇪      |     Bay Area, Seattle, New York, Vancouver, London, Munich, Dublin        |                 Relocates |               ?                 |  
 |         Badoo         |         🇬🇧        |                                  London                                   | Relocates |           Still relocates       |
 |         Bosch         |        🇺🇸🇩🇪       |                      Bay Area, Munich, Berlin, etc                        |  Relocates     |                 ?           |
