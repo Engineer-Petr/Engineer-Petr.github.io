@@ -30,7 +30,7 @@
 |         Lyft          |      🇺🇸🇲🇽🇧🇾        |                Bay Area, Seattle, New York, Mexico City, Minsk           |            Relocates               |         ?         |
 |      Microsoft        |   🇺🇸🚜🇬🇧🇮🇪🇨🇦🇦🇺🇩🇪   |                                                                            | Relocates               | Still relocates   |
 |        Netflix        |         🇺🇸        |                                                                            |      Relocates               |         ?         |
-|          NIO          |        🇺🇸🇩🇪        |                           Bay Area, Munich                                |      ?                       |         ?         |
+|          NIO          |        🇺🇸🇩🇪        |                           Bay Area, Munich                                |      Relocates               |         ?         |
 |        Nvidia         |         🇺🇸        |                                                                            |          ?                       |         ?         |
 |       Palantir        |        🇺🇸🇬🇧       |                                                                            |          ?                       |         ?         |
 |  Peloton Interactive  |         🇺🇸        |                                                                            |                   Relocates               | Still relocates   |
