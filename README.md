@@ -9,7 +9,7 @@
 |:---------------------:|:-----------------:|:-------------------------------------------------------------------------:|:----------------------------:|:-----------------:|
 |        90Seconds      |          🇸🇬       |                                  Singapore                                |  Relocates               |           ?       |
 |        Amazon         |     🇺🇸🇨🇦🇬🇧🇩🇪🇮🇪     |    Bay Area, Seattle, New York, Vancouver, Toronto, Berlin, Dublin, etc   |  Relocates               |      Frozen      |
-|          AMD          |        🇺🇸🇨🇦       |                        Bay Area, Austin, Bellevue, Markham                |                                   ?                       |         ?         |
+|          AMD          |        🇺🇸🇨🇦       |                        Bay Area, Austin, Seattle, Markham                |                                   ?                       |         ?         |
 |         Apple         |     🇺🇸🇨🇦🇬🇧🇩🇪🇮🇪     |     Bay Area, Seattle, New York, Vancouver, London, Munich, Dublin        |                 Relocates               |         ?         |  
 |         Badoo         |         🇬🇧        |                                  London                                   | Relocates               | Still relocates   |
 |       Bloomberg       |        🇺🇸🇬🇧       |                      Bay Area, New York, Princeton, London                |  Relocates               |         ?         |
@@ -28,21 +28,21 @@
 |          LG           |        🇺🇸🇨🇦        |                            Bay Area, Toronto                             | Relocates               |         ?         |
 |     Lucid Motors      |         🇺🇸        |                                 Bay Area                                  |       ?                       |         ?         |
 |         Lyft          |      🇺🇸🇲🇽🇧🇾        |                Bay Area, Seattle, New York, Mexico City, Minsk           |            Relocates               |         ?         |
-|      Microsoft        |   🇺🇸🚜🇬🇧🇮🇪🇨🇦🇦🇺🇩🇪   |                                                                            | Relocates               | Still relocates   |
-|        Netflix        |         🇺🇸        |                                                                            |      Relocates               |         ?         |
+|      Microsoft        |🇺🇸🚜🇬🇧🇨🇦🇮🇪🇦🇺🇩🇪🇪🇪🇮🇱🇨🇿🇳🇴|Bay Area, Seattle, Atlanta, London, Vancouver, Toronto, Dublin, Sydney, Munich, Tallin, Tel Aviv, Prague, Oslo, etc         |              Relocates             |           Still relocates           |
+|        Netflix        |         🇺🇸        |                           Bay Area, Los Angeles                           |      Relocates               |         ?         |
 |          NIO          |        🇺🇸🇩🇪        |                           Bay Area, Munich                                |      Relocates               |         ?         |
-|        Nvidia         |         🇺🇸        |                                                                            |          ?                       |         ?         |
-|       Palantir        |        🇺🇸🇬🇧       |                                                                            |          ?                       |         ?         |
-|  Peloton Interactive  |         🇺🇸        |                                                                            |                   Relocates               | Still relocates   |
+|        Nvidia         |       🇺🇸🇩🇪🇵🇱       |          Bay Area, Seattle, Austin, Munich, Wuerselen, Warsaw             |          ?                       |         ?         |
+|       Palantir        |        🇺🇸🇬🇧       |                     Bay Area, New York, Seattle,                           |          ?                       |         ?         |
+|  Peloton Interactive  |        🇺🇸🇬🇧       |                           New York, London                                 |                   Relocates               | Still relocates   |
 |        Revolut        |      🇬🇧🇩🇪🇵🇱🇱🇹      |                   London, Berlin, Krakov, Vilnius                          |          Relocates               |         ?         |
-|        Rivian         |         🇺🇸        |                                                                            |          ?                       |         ?         |
-|        Samsung        |         🇺🇸        |                                                                            |                   ?                       |         ?         |
-|  Sigma Connectivity   |         🇫🇮        |                                                                            |               Relocates               |      Frozen       |
-|       Snapchat        |       🇺🇸🇬🇧🇺🇦      |                                                                            |               Relocates               |         ?        |
-|        SpaceX         |         🇺🇸        |                                                                            |                  ?                       |         ?         |
-|        Square         |       🇺🇸🇨🇦🇦🇺      |                                                                            |                   ?                       |         ?        |
-|        Stripe         |    🇺🇸🇨🇦🇦🇺🇮🇪🇲🇽🇸🇬    |                                                                            |               Relocates               |         ?         |
-| Telescope Services AB |         🇫🇮        |                                                                            |               Relocates               |         ?         |
-|         Tesla         |         🇺🇸        |                                                                            |                   ?                       |         ?         |
-|         Tonal         |         🇺🇸        |                                                                            |            Doesn't relocate        |        N/A        |
-|         Uber          |        🇺🇸🇳🇱       |                                                                             |              Relocates               |         ?         |
+|        Rivian         |        🇺🇸🇨🇦       |                           Bay Area, Vancouver                              |          ?                       |         ?         |
+|        Samsung        |        🇺🇸🇩🇪        |                     Bay Area, Austin, Munich, etc                         |                   ?                       |         ?         |
+|  Sigma Connectivity   |        🇺🇸🇸🇪       |                       Bay Area, Seattle, Lund                              |               Relocates               |      Frozen       |
+|       Snapchat        |       🇺🇸🇬🇧🇦🇺🇺🇦     |           Bay Area, Los Angeles, New York, Seattle, Sydney, Kyiv          |               Relocates               |         ?         |
+|        SpaceX         |         🇺🇸        |                         Los Angeles, Seattle                              |                  ?                       |         ?         |
+|        Square         |       🇺🇸🇨🇦🇦🇺🇯🇵     |Bay Area, New York, Atlanta, Portland,  Toronto, Kitchener, Melbourne, Sydney, Minato-ku               |         ?         |                  ?                 |
+|        Stripe         |      🇺🇸🇨🇦🇮🇪🇲🇽🇸🇬    |        Bay Area, Seattle, New York, Dublin, Mexico City, Singapore         |               Relocates               |         ?         |
+| Telescope Services AB |         🇸🇪        |                                   Lund                                     |               Relocates               |         ?         |
+|         Tesla         |       🇺🇸🇩🇪🇳🇱       |                 Bay Area, Seattle, Berlin, Amsterdam                     |                   ?                       |         ?         |
+|         Tonal         |        🇺🇸🇨🇦        |                       Bay Area, Toronto                                   |            Doesn't relocate        |        N/A        |
+|         Uber          |        🇺🇸🇳🇱       |                           Bay Area, Amsterdam                              |              Relocates               |         ?         |
