@@ -28,7 +28,7 @@
 |          LG           |        🇺🇸🇨🇦        |                            Bay Area, Toronto                             | Relocates               |         ?         |
 |     Lucid Motors      |         🇺🇸        |                                 Bay Area                                  |       ?                       |         ?         |
 |         Lyft          |      🇺🇸🇲🇽🇧🇾        |                Bay Area, Seattle, New York, Mexico City, Minsk           |            Relocates               |         ?         |
-|      Microsoft        |🇺🇸🚜🇬🇧🇨🇦🇮🇪🇦🇺🇩🇪🇪🇪🇮🇱🇨🇿🇳🇴|Bay Area, Seattle, Atlanta, London, Vancouver, Toronto, Dublin, Sydney, Munich, Tallin, Tel Aviv, Prague, Oslo, etc         |              Relocates             |           Still relocates           |
+|      Microsoft        | 🇺🇸🇬🇧🇨🇦🇮🇪🇦🇺🇩🇪🇪🇪🇮🇱🇨🇿🇳🇴 |Bay Area, Seattle, Atlanta, London, Vancouver, Toronto, Dublin, Sydney, Munich, Tallin, Tel Aviv, Prague, Oslo, etc         |              Relocates             |           Still relocates           |
 |        Netflix        |         🇺🇸        |                           Bay Area, Los Angeles                           |      Relocates               |         ?         |
 |          NIO          |        🇺🇸🇩🇪        |                           Bay Area, Munich                                |      Relocates               |         ?         |
 |        Nvidia         |       🇺🇸🇩🇪🇵🇱       |          Bay Area, Seattle, Austin, Munich, Wuerselen, Warsaw             |          ?                       |         ?         |
