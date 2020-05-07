@@ -10,7 +10,7 @@
 |        90Seconds      |          🇸🇬       |                                  Singapore                                |  Relocates               |           ?       |
 |        Amazon         |     🇺🇸🇨🇦🇬🇧🇩🇪🇮🇪     |    Bay Area, Seattle, New York, Vancouver, Toronto, Berlin, Dublin, etc   |  Relocates               |      Frozen      |
 |          AMD          |        🇺🇸🇨🇦       |                        Bay Area, Austin, Bellevue, Markham                |                                   ?                       |         ?         |
-|         Apple         |      🇺🇸🇨🇦🇬🇧🇩🇪      |     Bay Area, Seattle, New York, Vancouver, London, Munich, Dublin        |                 Relocates               |         ?         |  
+|         Apple         |     🇺🇸🇨🇦🇬🇧🇩🇪🇮🇪     |     Bay Area, Seattle, New York, Vancouver, London, Munich, Dublin        |                 Relocates               |         ?         |  
 |         Badoo         |         🇬🇧        |                                  London                                   | Relocates               | Still relocates   |
 |       Bloomberg       |        🇺🇸🇬🇧       |                      Bay Area, New York, Princeton, London                |  Relocates               |         ?         |
 |         Bosch         |        🇺🇸🇩🇪       |                      Bay Area, Munich, Berlin, etc                        |  Relocates               |         ?         |
