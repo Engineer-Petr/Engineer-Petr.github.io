@@ -22,7 +22,7 @@
 |        JPMorgan       |        🇺🇸🇬🇧🇸🇬      |Bay Area, New York, Seattle, Jersey City, Tampa, Chicago, Houston, London, Glasgow, Singapore, etc |      Relocates    |                ?                   |  
 |        Garmin         |        🇺🇸🇨🇦        |                  Kansas City, Los Angeles, Cochrane                      | Doesn't relocate        |        N/A        |        
 |        Google         |🇺🇸🚜🇨🇦🇬🇧🇩🇪🇯🇵🇦🇺🇮🇪🇸🇪🇰🇷🇮🇱| Bay Area, Seattle, New York, Waterloo, Montreal, Toronto, London, Munich, Tokyo, Sydney, Dublin, Stockholm, Seoul, Tel Aviv, etc |            Relocates          |            Hiring slowdown           |
-|         Grab          |       🇸🇬🇷🇴🇲🇾       |                     Singapore, Cluj-Napoca, Kuala Lumpur                 | Hiring slowdown         |       Frozen      |
+|         Grab          |       🇸🇬🇷🇴🇲🇾       |                     Singapore, Cluj-Napoca, Kuala Lumpur                 |         Relocates               |  Hiring slowdown  |
 |      Hammerhead       |         🇺🇸        |                            New York, Malvern                              | Doesn't relocate        |        N/A        |
 |         Intel         |        🇺🇸🇵🇱        |                 Bay Area, Chicago, Austin, Gdansk                        |           ?                       |         ?         |
 |      Jane Street      |        🇺🇸🇬🇧       |                         New York, London, Hong Kong                       |     Relocates               |         ?         |
