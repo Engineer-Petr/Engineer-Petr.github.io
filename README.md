@@ -3,7 +3,7 @@
 # Notes
 * [Green cards were suspended for the next 90 days, H1B and L1 are under discussion due to 26 mn Americans lose jobs](https://www.business-standard.com/article/economy-policy/trump-urged-to-suspend-h1b-other-visas-after-26-mn-americans-lose-jobs-120042500004_1.html) 
 * 🇺🇸🚜 means that company doesn't hire to US directly from Russia, but intra-company transfer is possible.
-* **Hiring slowdown** - company continues hiring but only for essential roles.
+* **Hiring slowdown** - some companies continues hiring only for essential roles.
 
 # Companies that relocate Software Engineers from Russia
 |        Company        |     Country       |                                   City                                    | Relocation Status | Relocation status during COVID-19 |
