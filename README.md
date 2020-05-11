@@ -30,7 +30,7 @@
 |         Intel         |        🇺🇸🇵🇱        |                 Bay Area, Chicago, Austin, Gdansk                        |           ?                       |         ?         |
 |      Jane Street      |        🇺🇸🇬🇧       |                         New York, London, Hong Kong                       |     Relocates               |         ?         |
 |          LG           |        🇺🇸🇨🇦        |                            Bay Area, Toronto                             | Relocates               |         ?         |
-|        Lokimo         |         🇪🇪        |                                 Tallin                                    |       ?                       |         ?         |
+|        Lokimo         |         🇪🇪        |                                 Tallin                                    |       Relocates               |  Hiring slowdown  |
 |     Lucid Motors      |         🇺🇸        |                                 Bay Area                                  |       ?                       |         ?         |
 |         Lyft          |      🇺🇸🇲🇽🇧🇾        |                Bay Area, Seattle, New York, Mexico City, Minsk           |            Relocates               |         ?         |
 |      Microsoft        | 🇺🇸🇬🇧🇨🇦🇮🇪🇦🇺🇩🇪🇪🇪🇮🇱🇨🇿🇳🇴 |Bay Area, Seattle, Atlanta, London, Vancouver, Toronto, Dublin, Sydney, Munich, Tallin, Tel Aviv, Prague, Oslo, etc         |              Relocates             |           Still relocates           |
