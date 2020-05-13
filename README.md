@@ -27,7 +27,7 @@
 |         Grab          |       🇸🇬🇷🇴🇲🇾       |                     Singapore, Cluj-Napoca, Kuala Lumpur                 |         Relocates               |  Hiring slowdown  |
 |      Hammerhead       |         🇺🇸        |                            New York, Malvern                              | Doesn't relocate        |        N/A        |
 |      Improbable       |        🇺🇸🇬🇧        |                           Arlington, London                              |           Relocates               |         ?         |
-|         Intel         |        🇺🇸🇵🇱        |                 Bay Area, Chicago, Austin, Gdansk                        |           ?                       |         ?         |
+|         Intel         |        🇺🇸🇵🇱        |                 Bay Area, Chicago, Austin, Gdansk                        |           Relocates               |         ?         |
 |      Jane Street      |        🇺🇸🇬🇧       |                         New York, London, Hong Kong                       |     Relocates               |         ?         |
 |          LG           |        🇺🇸🇨🇦        |                            Bay Area, Toronto                             | Relocates               |         ?         |
 |        Lokimo         |         🇪🇪        |                                 Tallin                                    |       Relocates               |  Hiring slowdown  |
