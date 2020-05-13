@@ -5,6 +5,7 @@
 * [Trump govt working to temporarily ban H-1B, other work visas](https://www.theweek.in/news/biz-tech/2020/05/09/trump-govt-working-to-temporarily-ban-h1b-other-work-visas.html)
 * 🇺🇸🚜 means that company doesn't hire to US directly from Russia, but intra-company transfer is possible (L1 visa).
 * **Hiring slowdown** - some companies continues hiring only for essential roles.
+* H1-B visas are distributed in the March and April of every year. Some companies hold US hiring from April to December to target H1-B lottery. 
 
 # Companies that relocate Software Engineers from Russia
 |        Company        |     Country       |                                   City                                    | Relocation Status | Relocation status during COVID-19 |
