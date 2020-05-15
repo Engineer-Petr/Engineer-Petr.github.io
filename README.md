@@ -18,7 +18,7 @@
 | Bloomberg | 🇺🇸🇬🇧 | Bay Area, New York, Princeton, London | Relocates |  | @DAlexIV | 14.05.20 |
 | Bosch | 🇺🇸🇩🇪 | Bay Area, Munich, Berlin, etc | Relocates |  | @DAlexIV | 14.05.20 |
 | Citadel | 🇺🇸🇬🇧🇭🇰 | New York, Chicago, London, Hong Kong | Relocates |  | @DAlexIV | 14.05.20 |
-| Ebay | 🇺🇸🇬🇧🇨🇦🇮🇱 | Bay Area, Austin, Portland, New York, Draper, Seattle, London, Toronto, Berlin, Dreilinden, Netanya |  |  |  |  |
+| Ebay | 🇺🇸🇬🇧🇨🇦🇮🇱 | Bay Area, Austin, Portland, New York, Draper, Seattle, London, Toronto, Berlin, Dreilinden, Netanya | Relocates |  | Referral | 15.05.20 |
 | Epam | 🇺🇸🇬🇧🇸🇬🇺🇦🇸🇪🇪🇸🇵🇱🇧🇾 | Bay Area, Seattle, New York, London, Singapore, Kyiv, Stockholm, Malaga, Minsk, Warsaw, etc | Relocates | Frozen | @snowinmars | 03.05.20 |
 | Facebook | 🇺🇸🚜🇬🇧🇸🇪🇨🇭🇮🇪🇵🇱 | Bay Area, Seattle, New York, Washington, Los Angeles, London, Stockholm, Zurich, Dublin, Singapore, etc | Relocates | Still relocates | Recruiter | 24.04.20 |
 | Futurice | 🇫🇮🇩🇪🇬🇧🇸🇪🇳🇴 | Helsinki, Tampere, Berlin, Stuttgart, London, Stockholm, Oslo | Relocates |  | @Gaket | 14.05.20 |
