@@ -33,7 +33,7 @@
 | LG | 🇺🇸🇨🇦 | Bay Area, Toronto | Relocates |  | @DAlexIV | 14.05.20 |
 | Lokimo | 🇪🇪 | Tallin | Relocates | Hiring slowdown | @djavidka | 11.05.20 |
 | Lucid Motors | 🇺🇸 | Bay Area |  |  |  |  |
-| Lyft | 🇺🇸🇲🇽🇧🇾 | Bay Area, Seattle, New York, Mexico City, Minsk | Relocates |  | @DAlexIV | 14.05.20 |
+| Lyft | 🇺🇸🇲🇽🇧🇾 | Bay Area, Seattle, New York, Mexico City, Minsk | Relocates | Frozen | @Tagakov | 16.05.20 |
 | Microsoft | 🇺🇸🇬🇧🇨🇦🇮🇪🇦🇺🇩🇪🇪🇪🇮🇱🇨🇿🇳🇴 | Bay Area, Seattle, Atlanta, London, Vancouver, Toronto, Dublin, Sydney, Munich, Tallin, Tel Aviv, Prague, Oslo, etc | Relocates |  | @DAlexIV | 14.05.20 |
 | Netflix | 🇺🇸 | Bay Area, Los Angeles | Relocates |  | @DAlexIV | 14.05.20 |
 | NIO | 🇺🇸🇩🇪 | Bay Area, Munich | Relocates |  | @DAlexIV | 14.05.20 |
