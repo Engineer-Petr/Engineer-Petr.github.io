@@ -9,6 +9,6 @@ Go to [engineer-petr.github.io](https://engineer-petr.github.io/) to check the l
 
 **I'm clearly a bottleneck in this process. I add companies quite slowly, help is always needed.**
 
-**If you have any ideas or something else, feel free to reach out! Contact me for more info [@dalexiv](https://t.me/dalexiv)**
+**If you have any ideas or something else, feel free to reach out! Contact me for more info [@dalexiv](https://t.me/vrfloppa)**
 
 Feel free to contribute by updating company status.
