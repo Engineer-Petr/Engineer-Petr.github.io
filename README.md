@@ -1,4 +1,4 @@
-# 🌎🚜
+# 🌎🚜🐷
 Go to [engineer-petr.github.io](https://engineer-petr.github.io/) to check the latest companies.
 
 **Do you want to help thousands of people to escape war, horror and terror in Russia, Ukraine and Belarus and other countries?**
